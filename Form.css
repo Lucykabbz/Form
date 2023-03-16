@@ -1,0 +1,14 @@
+body{
+    background-image: url(background2.jpg)
+}
+h3{
+    text-align: center;
+}
+.form{
+    background-color: white;
+    width: 1000px;
+    align-content: center;
+}
+.text-center{
+    text-align: center;
+}
